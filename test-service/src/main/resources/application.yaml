@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: test-service
+  rest-logger:
+    enabled: true
+    level: debug
+#logging:
+#  level:
+#    ru:
+#      nikitin:
+#        restlogger: debug

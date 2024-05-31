@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  ru.nikitin.restlogger.props.LogEnvironmentPostProcessor

@@ -1,0 +1,5 @@
+logging:
+  level:
+    ru:
+      nikitin:
+        restlogger: debug
